@@ -1,6 +1,6 @@
 - 👋 Hi, I’m KoalaLearningWD
 - 👀 I’m interested in Front End Web Developer
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML CSS Github VSCode
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
