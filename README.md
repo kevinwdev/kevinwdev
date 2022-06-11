@@ -1,5 +1,5 @@
-- 👋 Hi, I’m KoalaLearningWD
-- 👀 I’m interested in Front End Web Developer
+- 👋 Hi, I’m Kevin
+- 👀 I’m interested in becoming a Front End Web Developer
 - 🌱 I’m currently learning HTML CSS Github VSCode
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
