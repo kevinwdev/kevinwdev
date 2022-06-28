@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning HTML CSS Github VSCode Twitter Bootstrap
 - :school_satchel: I'm working on setting up a static restaurant website.
 - 💞️ I’m looking to gain real world experience in front end web development.
+- 🌱 Doing Codewars since Jun 22
 - 📫 You can reach me via 
 
 <!---
